@@ -1,7 +1,5 @@
 package com.mulberrybeacon.automation;
 
-import static java.lang.String.format;
-
 /**
  * Available execution environments for the web application.
  */
